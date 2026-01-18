@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "su2-node-matrix-elements"
+version = "0.1.0"
+description = "SU(2) node matrix elements via (source-extended) generating functionals"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [{ name = "Arcticoder" }]
+license = { text = "Unlicense" }
+dependencies = [
+  "numpy>=1.20",
+  "sympy>=1.12",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=7.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.setuptools.packages.find]
+where = ["src"]

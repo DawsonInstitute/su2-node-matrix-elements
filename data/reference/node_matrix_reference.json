@@ -1,0 +1,65 @@
+{
+  "cases": [
+    {
+      "label": "trivalent_normalized_example",
+      "spins": [
+        1,
+        1,
+        0
+      ],
+      "valence": 3,
+      "value": 0.4999999999
+    },
+    {
+      "label": "trivalent_half_integers",
+      "spins": [
+        0.5,
+        0.5,
+        1
+      ],
+      "valence": 3,
+      "value": 0.6399999998540801
+    },
+    {
+      "label": "tetravalent_uniform",
+      "spins": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "valence": 4,
+      "value": 0.12499999997500003
+    },
+    {
+      "label": "tetravalent_mixed",
+      "spins": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "valence": 4,
+      "value": 0.019999999995920004
+    },
+    {
+      "label": "pentavalent_mixed",
+      "spins": [
+        0.5,
+        1,
+        1.5,
+        2,
+        2.5
+      ],
+      "valence": 5,
+      "value": 0.006790450927094837
+    }
+  ],
+  "metadata": {
+    "det_power": 1,
+    "epsilon": 1e-10,
+    "generated_at": "2026-01-18T23:18:42.974208+00:00",
+    "note": "Determinant-based placeholder model for validation scaffolding.",
+    "schema_version": "1.0"
+  }
+}

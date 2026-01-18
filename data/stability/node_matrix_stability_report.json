@@ -1,0 +1,229 @@
+{
+  "metadata": {
+    "generated_at": "2026-01-18T23:18:43.400313+00:00",
+    "note": "Stability metrics for determinant-based placeholder model.",
+    "schema_version": "1.0"
+  },
+  "results": [
+    {
+      "cond": 1.999998500001688,
+      "det": 4.000006000002999,
+      "epsilon": 1e-06,
+      "label": "trivalent_small",
+      "spins": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "valence": 3
+    },
+    {
+      "cond": 1.9999999849999999,
+      "det": 4.00000006,
+      "epsilon": 1e-08,
+      "label": "trivalent_small",
+      "spins": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "valence": 3
+    },
+    {
+      "cond": 1.99999999985,
+      "det": 4.0000000006,
+      "epsilon": 1e-10,
+      "label": "trivalent_small",
+      "spins": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "valence": 3
+    },
+    {
+      "cond": 1.9999999999985003,
+      "det": 4.0000000000060005,
+      "epsilon": 1e-12,
+      "label": "trivalent_small",
+      "spins": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "valence": 3
+    },
+    {
+      "cond": 9.325182764241946,
+      "det": 850.0005500002786,
+      "epsilon": 1e-06,
+      "label": "tetravalent_mixed",
+      "spins": [
+        1.0,
+        2.0,
+        3.0,
+        4.0
+      ],
+      "valence": 4
+    },
+    {
+      "cond": 9.325185683130702,
+      "det": 850.0000055000006,
+      "epsilon": 1e-08,
+      "label": "tetravalent_mixed",
+      "spins": [
+        1.0,
+        2.0,
+        3.0,
+        4.0
+      ],
+      "valence": 4
+    },
+    {
+      "cond": 9.325185712319582,
+      "det": 850.0000000549993,
+      "epsilon": 1e-10,
+      "label": "tetravalent_mixed",
+      "spins": [
+        1.0,
+        2.0,
+        3.0,
+        4.0
+      ],
+      "valence": 4
+    },
+    {
+      "cond": 9.325185712611479,
+      "det": 850.0000000005507,
+      "epsilon": 1e-12,
+      "label": "tetravalent_mixed",
+      "spins": [
+        1.0,
+        2.0,
+        3.0,
+        4.0
+      ],
+      "valence": 4
+    },
+    {
+      "cond": 7.976384426605986,
+      "det": 147.2659041408268,
+      "epsilon": 1e-06,
+      "label": "pentavalent_mixed",
+      "spins": [
+        0.5,
+        1.0,
+        1.5,
+        2.0,
+        2.5
+      ],
+      "valence": 5
+    },
+    {
+      "cond": 7.976392199110158,
+      "det": 147.26562779140636,
+      "epsilon": 1e-08,
+      "label": "pentavalent_mixed",
+      "spins": [
+        0.5,
+        1.0,
+        1.5,
+        2.0,
+        2.5
+      ],
+      "valence": 5
+    },
+    {
+      "cond": 7.9763922768352815,
+      "det": 147.26562502791413,
+      "epsilon": 1e-10,
+      "label": "pentavalent_mixed",
+      "spins": [
+        0.5,
+        1.0,
+        1.5,
+        2.0,
+        2.5
+      ],
+      "valence": 5
+    },
+    {
+      "cond": 7.9763922776125264,
+      "det": 147.26562500027924,
+      "epsilon": 1e-12,
+      "label": "pentavalent_mixed",
+      "spins": [
+        0.5,
+        1.0,
+        1.5,
+        2.0,
+        2.5
+      ],
+      "valence": 5
+    },
+    {
+      "cond": 32.29855525961369,
+      "det": 817700.604610315,
+      "epsilon": 1e-06,
+      "label": "higher_valence",
+      "spins": [
+        1.0,
+        2.0,
+        3.0,
+        4.0,
+        5.0,
+        6.0
+      ],
+      "valence": 6
+    },
+    {
+      "cond": 32.29856674333193,
+      "det": 817700.0060461004,
+      "epsilon": 1e-08,
+      "label": "higher_valence",
+      "spins": [
+        1.0,
+        2.0,
+        3.0,
+        4.0,
+        5.0,
+        6.0
+      ],
+      "valence": 6
+    },
+    {
+      "cond": 32.29856685816915,
+      "det": 817700.0000604589,
+      "epsilon": 1e-10,
+      "label": "higher_valence",
+      "spins": [
+        1.0,
+        2.0,
+        3.0,
+        4.0,
+        5.0,
+        6.0
+      ],
+      "valence": 6
+    },
+    {
+      "cond": 32.298566859317475,
+      "det": 817700.0000006045,
+      "epsilon": 1e-12,
+      "label": "higher_valence",
+      "spins": [
+        1.0,
+        2.0,
+        3.0,
+        4.0,
+        5.0,
+        6.0
+      ],
+      "valence": 6
+    }
+  ],
+  "summary": {
+    "max_cond": 32.298566859317475,
+    "min_cond": 1.999998500001688
+  }
+}

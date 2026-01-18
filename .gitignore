@@ -25,6 +25,15 @@ Thumbs.db
 *.out
 *.synctex.gz
 
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+build/
+dist/
+*.egg-info/
+
 .github/instructions/copilot-instructions.md
 
 .github/
