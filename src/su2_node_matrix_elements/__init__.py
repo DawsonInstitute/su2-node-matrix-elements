@@ -19,6 +19,11 @@ from .stability import (
     stability_metrics,
 )
 
+from .derivative import (
+    DerivativeConfig,
+    node_matrix_element_derivative,
+)
+
 __all__ = [
     "SpinDomainError",
     "validate_spins",
@@ -26,4 +31,7 @@ __all__ = [
     "det_I_minus_K",
     "node_matrix_element",
     "stability_metrics",
+    "DerivativeConfig",
+    "node_matrix_element_derivative",
 ]
+

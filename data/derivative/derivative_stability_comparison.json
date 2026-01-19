@@ -1,0 +1,253 @@
+{
+  "metadata": {
+    "generated_at": "2026-01-19T02:21:22.177444+00:00",
+    "note": "Stability comparison: derivative-based vs determinant placeholder.",
+    "schema_version": "1.0"
+  },
+  "results": [
+    {
+      "derivative_value": 0.06250902573334827,
+      "determinant_value": 0.2499999999625,
+      "epsilon": 1e-10,
+      "label": "trivalent_uniform",
+      "ratio": 0.2500361029708985,
+      "relative_difference": 0.7499638970291015,
+      "spins": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "step_size": 0.0001,
+      "valence": 3
+    },
+    {
+      "derivative_value": 0.05551115123125781,
+      "determinant_value": 0.2499999999625,
+      "epsilon": 1e-10,
+      "label": "trivalent_uniform",
+      "ratio": 0.22204460495833794,
+      "relative_difference": 0.777955395041662,
+      "spins": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "step_size": 1e-05,
+      "valence": 3
+    },
+    {
+      "derivative_value": 0.0,
+      "determinant_value": 0.2499999999625,
+      "epsilon": 1e-10,
+      "label": "trivalent_uniform",
+      "ratio": 0.0,
+      "relative_difference": 1.0,
+      "spins": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "step_size": 1e-06,
+      "valence": 3
+    },
+    {
+      "derivative_value": 0.21298240948652847,
+      "determinant_value": 0.6399999998540801,
+      "epsilon": 1e-10,
+      "label": "trivalent_half_int",
+      "ratio": 0.3327850148985757,
+      "relative_difference": 0.6672149851014243,
+      "spins": [
+        0.5,
+        0.5,
+        1.0
+      ],
+      "step_size": 0.0001,
+      "valence": 3
+    },
+    {
+      "derivative_value": 0.22204460492503125,
+      "determinant_value": 0.6399999998540801,
+      "epsilon": 1e-10,
+      "label": "trivalent_half_int",
+      "ratio": 0.3469446952744647,
+      "relative_difference": 0.6530553047255353,
+      "spins": [
+        0.5,
+        0.5,
+        1.0
+      ],
+      "step_size": 1e-05,
+      "valence": 3
+    },
+    {
+      "derivative_value": 0.0,
+      "determinant_value": 0.6399999998540801,
+      "epsilon": 1e-10,
+      "label": "trivalent_half_int",
+      "ratio": 0.0,
+      "relative_difference": 1.0,
+      "spins": [
+        0.5,
+        0.5,
+        1.0
+      ],
+      "step_size": 1e-06,
+      "valence": 3
+    },
+    {
+      "derivative_value": 0.13877787807814454,
+      "determinant_value": 0.12499999997500003,
+      "epsilon": 1e-10,
+      "label": "tetravalent_uniform",
+      "ratio": 1.1102230248472007,
+      "relative_difference": 0.1102230248472007,
+      "spins": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "step_size": 0.0001,
+      "valence": 4
+    },
+    {
+      "derivative_value": 260.20852139652095,
+      "determinant_value": 0.12499999997500003,
+      "epsilon": 1e-10,
+      "label": "tetravalent_uniform",
+      "ratio": 2081.6681715885006,
+      "relative_difference": 2080.668171588501,
+      "spins": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "step_size": 1e-05,
+      "valence": 4
+    },
+    {
+      "derivative_value": 867361.7379884038,
+      "determinant_value": 0.12499999997500003,
+      "epsilon": 1e-10,
+      "label": "tetravalent_uniform",
+      "ratio": 6938893.905295008,
+      "relative_difference": 6938892.905295007,
+      "spins": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "step_size": 1e-06,
+      "valence": 4
+    },
+    {
+      "derivative_value": 0.0021684043449710084,
+      "determinant_value": 0.0199999999972,
+      "epsilon": 1e-10,
+      "label": "tetravalent_mixed",
+      "ratio": 0.10842021726372925,
+      "relative_difference": 0.8915797827362707,
+      "spins": [
+        1.0,
+        2.0,
+        2.0,
+        1.0
+      ],
+      "step_size": 0.0001,
+      "valence": 4
+    },
+    {
+      "derivative_value": -43.36808689942016,
+      "determinant_value": 0.0199999999972,
+      "epsilon": 1e-10,
+      "label": "tetravalent_mixed",
+      "ratio": 2168.4043452745846,
+      "relative_difference": 2169.4043452745846,
+      "spins": [
+        1.0,
+        2.0,
+        2.0,
+        1.0
+      ],
+      "step_size": 1e-05,
+      "valence": 4
+    },
+    {
+      "derivative_value": 1084202.1724855048,
+      "determinant_value": 0.0199999999972,
+      "epsilon": 1e-10,
+      "label": "tetravalent_mixed",
+      "ratio": 54210108.63186465,
+      "relative_difference": 54210107.63186465,
+      "spins": [
+        1.0,
+        2.0,
+        2.0,
+        1.0
+      ],
+      "step_size": 1e-06,
+      "valence": 4
+    },
+    {
+      "derivative_value": 0.06938893903907227,
+      "determinant_value": 0.3199999999168,
+      "epsilon": 1e-10,
+      "label": "tetravalent_half_int",
+      "ratio": 0.21684043455347934,
+      "relative_difference": 0.7831595654465207,
+      "spins": [
+        0.5,
+        0.5,
+        1.0,
+        1.0
+      ],
+      "step_size": 0.0001,
+      "valence": 4
+    },
+    {
+      "derivative_value": 693.8893903907226,
+      "determinant_value": 0.3199999999168,
+      "epsilon": 1e-10,
+      "label": "tetravalent_half_int",
+      "ratio": 2168.4043455347933,
+      "relative_difference": 2167.4043455347933,
+      "spins": [
+        0.5,
+        0.5,
+        1.0,
+        1.0
+      ],
+      "step_size": 1e-05,
+      "valence": 4
+    },
+    {
+      "derivative_value": -13877787.80781446,
+      "determinant_value": 0.3199999999168,
+      "epsilon": 1e-10,
+      "label": "tetravalent_half_int",
+      "ratio": 43368086.91069589,
+      "relative_difference": 43368087.91069589,
+      "spins": [
+        0.5,
+        0.5,
+        1.0,
+        1.0
+      ],
+      "step_size": 1e-06,
+      "valence": 4
+    }
+  ],
+  "summary": {
+    "max_ratio": 54210108.63186465,
+    "min_ratio": 0.0,
+    "step_sizes_tested": [
+      0.0001,
+      1e-05,
+      1e-06
+    ],
+    "total_cases": 15
+  }
+}
