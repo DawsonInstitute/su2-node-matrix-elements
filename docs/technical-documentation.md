@@ -169,7 +169,7 @@ Purpose: Static site generation and styling
 
 ### Primary Documentation
 - **README.md**: Repository overview and quick start guide
-- **GitHub Pages**: [Interactive mathematical presentation](https://arcticoder.github.io/su2-node-matrix-elements/)
+- **GitHub Pages**: [Interactive mathematical presentation](https://dawsoninstitute.github.io/su2-node-matrix-elements/)
 - **PDF Paper**: Complete mathematical exposition with formal proofs
 - **LaTeX Source**: Publication-ready mathematical derivations
 

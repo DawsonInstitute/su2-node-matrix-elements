@@ -1,12 +1,12 @@
 title: Closed-Form Matrix Elements for Arbitrary-Valence SU(2) Nodes via Generating Functionals
-author: Arcticoder
+author: Dawson Institute
 description: Research on SU(2) operator matrix elements using generating functionals
 theme: jekyll-theme-cayman
 markdown: kramdown
 kramdown:
   math_engine: mathjax
 baseurl: "/su2-node-matrix-elements"
-url: "https://arcticoder.github.io"
+url: "https://dawsoninstitute.github.io"
 plugins:
   - jekyll-sitemap
 sass:

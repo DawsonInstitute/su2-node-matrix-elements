@@ -2,7 +2,7 @@
 
 This repository contains the paper "Closed-Form Matrix Elements for Arbitrary-Valence SU(2) Nodes via Generating Functionals" and its implementation as a GitHub Pages site.
 
-**Website**: [https://arcticoder.github.io/su2-node-matrix-elements/](https://arcticoder.github.io/su2-node-matrix-elements/)
+**Website**: [https://dawsoninstitute.github.io/su2-node-matrix-elements/](https://dawsoninstitute.github.io/su2-node-matrix-elements/)
 
 ## Abstract
 
